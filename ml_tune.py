@@ -8,7 +8,7 @@
 How to use it?
 1. import this module to your python code, for example: 
 
-tune_path='C:/Users/hyang978/data-science/Pyth/ML-tune/'
+tune_path='C:/Users/sndp89/data-science/Pyth/ML-tune/'
 sys.path.append(tune_path)
 import ml_tune as tune
 
