@@ -2,7 +2,7 @@
 =============================================================================================
 |        A general utility function to select the best model and tune parameters            |
 |        for various classification and regression ML algorithms                            |
-|                   By Huanwang Henry Yang  (2016-08-15)                                    |
+|                                      |
 =============================================================================================
 
 How to use it?
